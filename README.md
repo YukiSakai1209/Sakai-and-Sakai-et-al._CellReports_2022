@@ -1,2 +1,7 @@
 # Sakai-and-Sakai-et-al._CellReports_2022
-Under construction
+
+Parameter estimation code for Sakai-and-Sakai-et-al._CellReports_2022 using hyperopt 0.1.2.
+Please see our paper for details.
+
+code_01_para_est.py: Estimate parameters using 100 different random seeds.
+code_02_choose_optimal_para.py: Extract estimated parameters as the ones with the minimum negative log likelihood among 100 estimations with different random seeds.
