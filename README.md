@@ -1,6 +1,7 @@
 # Sakai-and-Sakai-et-al._CellReports_2022
 
 Parameter estimation code for Sakai-and-Sakai-et-al._CellReports_2022 using hyperopt 0.1.2.
+
 Please see our paper for details (Sakai-and-Sakai-et-al._CellReports_2022 "Memory Trace Imbalance in Reinforcement and Punishment Systems Can Reinforce Implicit Choices Leading to Obsessive-Compulsive Behavior").
 
 code_01_para_est.py: Estimate parameters using 100 different random seeds.
