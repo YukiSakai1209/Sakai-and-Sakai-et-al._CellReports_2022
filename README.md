@@ -2,7 +2,7 @@
 
 Parameter estimation code for Sakai-and-Sakai-et-al._CellReports_2022 using hyperopt 0.1.2.
 
-Please see our paper for details (Sakai-and-Sakai-et-al._CellReports_2022 "Memory Trace Imbalance in Reinforcement and Punishment Systems Can Reinforce Implicit Choices Leading to Obsessive-Compulsive Behavior").
+Please see our paper for details (Sakai, Y., Sakai, Y. (co-first author), Abe, Y., Narumoto, J., & Tanaka, S. C. (2022). Memory trace imbalance in reinforcement and punishment systems can reinforce implicit choices leading to obsessive-compulsive behavior. Cell Reports, 40(9). https://doi.org/10.1016/j.celrep.2022.111275 ).
 
 Please see https://github.com/YukiSakai1209/Sakai-and-Sakai-et-al._CellReports_2022 for the latest version.
 
